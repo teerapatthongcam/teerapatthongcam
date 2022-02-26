@@ -21,11 +21,8 @@
 
 ----
 ## 📖 โปรเจคที่ผมกำลังจะทำ
-- Datapack 1.18-1.19 
 - Discord Bot SuperWeir 
-- Website Emerald Empire
 - Website Teeraphat CH
--  Minecraft Server 1.8-1.18 Minigame & Roplay & Survival
 ---
 
 ## 🌏 คุณสามารถติดตามผมได้ทางนี้
