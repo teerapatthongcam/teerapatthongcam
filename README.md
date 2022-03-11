@@ -23,6 +23,7 @@
 ## 📖 โปรเจคที่ผมกำลังจะทำ
 - Discord Bot SuperWeir 
 - Website Teeraphat Studio
+- YouTube 1000 SUB
 ---
 
 ## 🌏 คุณสามารถติดตามผมได้ทางนี้
