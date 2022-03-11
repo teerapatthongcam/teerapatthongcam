@@ -8,10 +8,12 @@
 ```
 ---
 ## 💻 GitHub Stats
+<a href="https://github.com/Adivise">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TeeraphatCH15224&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 
 ## 📘 ภาษาที่เขียนมากที่สุด
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeraphatCH15224&layout=compact&langs_count=7&theme=gruvbox"/>
+ <a href="https://github.com/Adivise">
+  <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeraphatCH15224&layout=compact&langs_count=7&theme=gruvbox"/>
 
 ---
 
