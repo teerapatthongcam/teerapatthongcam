@@ -3,7 +3,7 @@
 ## 🙋‍♂️ ข้อมูลเกี่ยวกับฉัน
 ```
 ชื่อเล่น : เวียร์
-อายุ : 14
+อายุ : 17
 เพศ : ชาย
 ```
 ---
@@ -22,15 +22,13 @@
 
 ----
 ## 📖 โปรเจคที่ผมกำลังจะทำ
-- Discord Bot SuperWeir 
-- Website Teeraphat Studio
-- YouTube 1000 SUB
+ขีเกียจ
 ---
 
 ## 🌏 คุณสามารถติดตามผมได้ทางนี้
 <a href="https://www.youtube.com/channel/UCVj4Ou996CE8COuUf78g3bg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://web.facebook.com/TeeraphatCH2046" target="_blank"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/weirteeraphat_studio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/teeraphatthongcam" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/HJJP4XB3eu" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 ---
